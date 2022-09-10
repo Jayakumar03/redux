@@ -1,0 +1,4 @@
+
+
+// CENTRAL STATE
+const initialState = []
